@@ -9,3 +9,5 @@
 [FigI.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/FigureI.4/index.html)
 
 [FigI.5](https://mcdonaldduncan.github.io/NOCUR_BuildTest/FigureI.5/index.html)
+
+[Fig6.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure6.4/index.html)
