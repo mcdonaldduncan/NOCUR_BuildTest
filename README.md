@@ -12,4 +12,4 @@
 
 [Fig6.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure6.4/index.html)
 
-[Fig6.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure10.2/index.html)
+[Fig10.2](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure10.2/index.html)
