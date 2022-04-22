@@ -20,6 +20,12 @@
 
 [Fig1.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure1.4/index.html)
 
+[Fig1.5](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure1.5/index.html)
+
+[Fig1.6](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure1.6/index.html)
+
+[Fig1.7](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure1.7/index.html)
+
 
 
 
