@@ -52,6 +52,27 @@
 [Fig2.8](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure2.8/index.html)
 
 ### Chapter 3
+[Fig3.1](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.1/index.html)
+
+[Fig3.2](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.2/index.html)
+
+[Fig3.3](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.3/index.html)
+
+[Fig3.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.4/index.html)
+
+[Fig3.5](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.5/index.html)
+
+[Fig3.6](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.6/index.html)
+
+[Fig3.7](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.7/index.html)
+
+[Fig3.8](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.8/index.html)
+
+[Fig3.9](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.9/index.html)
+
+[Fig3.10](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.10/index.html)
+
+[Fig3.11](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure3.11/index.html)
 
 ### Chapter 6
 [Fig6.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure6.4/index.html)
