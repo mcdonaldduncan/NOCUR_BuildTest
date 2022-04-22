@@ -18,6 +18,8 @@
 
 [Fig1.3](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure1.3/index.html)
 
+[Fig1.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure1.4/index.html)
+
 
 
 
