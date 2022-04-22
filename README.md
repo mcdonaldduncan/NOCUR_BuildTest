@@ -16,8 +16,12 @@
 
 
 
+### Chapter 2
+### Chapter 3
 
-
+### Chapter 6
 [Fig6.4](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure6.4/index.html)
 
+### Chapter 7
+### Chapter 10
 [Fig10.2](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure10.2/index.html)
