@@ -93,6 +93,5 @@
 
 [Fig6.9](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure6.9/index.html)
 
-### Chapter 7
 ### Chapter 10
 [Fig10.2](https://mcdonaldduncan.github.io/NOCUR_BuildTest/Figure10.2/index.html)
